@@ -66,7 +66,7 @@ It uses the famous *Kaggle House Prices - Advanced Regression Techniques* datase
 - *Name*: Raviranjan Kumar  
 - *GitHub*:Completed an internship project on "House Price Prediction using Linear Regression"
 ✅ Guided by Prodigy Infotech & SkillCraft Technology
-🔗 GitHub Link: https://github.com/raviranjan-kumar/house-price-regression 
+🔗 GitHub Link: https://github.com/Raviranjan kumar/house-price-regression 
 
 - *LinkedIn:
 
